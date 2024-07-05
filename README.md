@@ -172,37 +172,25 @@ Crie um túnel criptografado e seguro para conectar sua rede local à sua VPC na
     * **IAM (Identity and Access Management):** Gerencie o acesso de usuários e serviços aos seus recursos da AWS.
 
 
+## Aplicações Sem Servidor
 
+Com a AWS, você pode construir e gerenciar aplicações sem se preocupar com a infraestrutura, permitindo maior foco na lógica de negócio e na entrega de valor aos seus clientes.
+
+* **Serviços sem servidor da AWS:**
+    * **AWS Lambda:** Execute código sem provisionar ou gerenciar servidores.
+    * **Amazon API Gateway:** Crie APIs RESTful escaláveis e seguras.
+    * **Amazon DynamoDB:** Banco de dados NoSQL totalmente gerenciado.
+    * **Amazon S3:** Armazenamento de objetos escalável e durável.
+    * **Amazon SNS:** Serviço de notificação por push.
+    * **AWS Step Functions:** Orquestre workflows sem servidor.
+    * **Fargate:** Plataforma serveless para executar containers sem servidor na AWS.
 
 **Recursos Adicionais:**
 
-* **Documentação da AWS:** [https://docs.aws.amazon.com/](https://docs.aws.amazon.com/)
-* **Blog da AWS:** [https://aws.amazon.com/blogs/](https://aws.amazon.com/blogs/)
-* **Vídeos da AWS:** [https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
-* **Cursos de Treinamento da AWS:** [https://aws.amazon.com/training/](https://aws.amazon.com/training/)
-
-**Lembre-se:**
-
-* A AWS oferece uma ampla variedade de serviços de rede para atender às suas necessidades.
-* É importante escolher o serviço de rede correto para cada caso de uso.
-* Siga as melhores práticas para garantir a segurança e a confiabilidade da sua rede na AWS.
-
-**Boa sorte em seus estudos e na jornada com a AWS!**
-
-
-
-
-
-
-
-
-**Dicas para o Exame:**
-
-* Esteja familiarizado com os conceitos básicos do EC2, como planos de compra e tipos de instâncias.
-* Seja capaz de identificar o tipo de instância correto para um determinado caso de uso.
-* Compreenda como o EC2 pode ser usado para atender às suas necessidades de negócios.
-
-**Boa sorte em seus estudos!**
+* **Introdução à Computação Sem Servidor na AWS:** [https://aws.amazon.com/serverless/getting-started/](https://aws.amazon.com/serverless/getting-started/)
+* **Guia do Desenvolvedor do AWS Lambda:** [https://aws.amazon.com/lambda/](https://aws.amazon.com/lambda/)
+* **Exemplos de Arquitetura Sem Servidor:** [https://serverlessland.com/patterns](https://serverlessland.com/patterns)
+* **Blog da AWS sobre Computação Sem Servidor:** [https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822](https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822)
 
 
 
