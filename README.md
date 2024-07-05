@@ -272,6 +272,25 @@ Com a AWS, você pode construir e gerenciar aplicações sem se preocupar com a 
     * Recomendações de produtos e sistemas de fraude.
     * Mapeamento de entidades e gerenciamento de conhecimento.
 
+## Estratégias de Modernização: 
+**1. Refatoração:**
+ O processo de reestruturar o código-fonte de uma aplicação sem alterar sua funcionalidade.
+
+**2. Recompra:**
+ Substituir uma aplicação existente por uma solução SaaS (Software as a Service) ou PaaS (Platform as a Service) de terceiros.
+
+**3. Redefinição de Hospedagem:**
+ Mover uma aplicação existente para um ambiente de hospedagem de nuvem, como Amazon EC2 ou Amazon Elastic Container Service (ECS).
+
+**4. Redefinição de Plataforma:**
+ Reestruturar a aplicação em uma nova plataforma de desenvolvimento, como AWS Lambda ou Amazon Elastic Kubernetes Service (EKS).
+
+**5. Reter:**
+ Manter a aplicação existente em sua infraestrutura atual, realizando apenas as atualizações e manutenções necessárias.
+
+**6. Retirar:**
+ Descontinuar a aplicação e substituí-la por uma solução alternativa ou por uma nova versão desenvolvida do zero.
+
 **Boa sorte em seus estudos!**
 
 
