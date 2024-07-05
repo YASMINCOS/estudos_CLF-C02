@@ -560,8 +560,7 @@ um guia abrangente que define seis pilares fundamentais para a criação de arqu
 
 * **Página de Planos de Suporte da AWS:** [https://aws.amazon.com/premiumsupport/plans/](https://aws.amazon.com/premiumsupport/plans/)
 * **Comparação de Planos de Suporte da AWS:** [https://aws.amazon.com/premiumsupport/plans/](https://aws.amazon.com/premiumsupport/plans/)
-* **Guia de Seleção de Plano de Suporte da AWS:** [URL inválido removido]
-
+  
 **Boa sorte em seus estudos!**
 
 
