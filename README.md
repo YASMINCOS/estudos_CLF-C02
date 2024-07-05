@@ -184,13 +184,21 @@ Com a AWS, você pode construir e gerenciar aplicações sem se preocupar com a 
     * **Amazon SNS:** Serviço de notificação por push.
     * **AWS Step Functions:** Orquestre workflows sem servidor.
     * **Fargate:** Plataforma serveless para executar containers sem servidor na AWS.
-
+      
 **Recursos Adicionais:**
 
 * **Introdução à Computação Sem Servidor na AWS:** [https://aws.amazon.com/serverless/getting-started/](https://aws.amazon.com/serverless/getting-started/)
 * **Guia do Desenvolvedor do AWS Lambda:** [https://aws.amazon.com/lambda/](https://aws.amazon.com/lambda/)
 * **Exemplos de Arquitetura Sem Servidor:** [https://serverlessland.com/patterns](https://serverlessland.com/patterns)
 * **Blog da AWS sobre Computação Sem Servidor:** [https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822](https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822)
+
+## EKS vs ECS:
+
+* **ECS:**
+   Serviço de orquestração de containers totalmente gerenciado.Ideal para iniciantes, workloads simples e migrações rápidas.
+* ** EKS:**
+   Serviço de orquestração de containers Kubernetes na AWS.Ideal para usuários experientes em Kubernetes, aplicações complexas e integração com o Kubernetes. 
+
 
 
 
