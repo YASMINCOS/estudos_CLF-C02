@@ -1,5 +1,7 @@
 ## Guia de Estudos para o Exame AWS Certified Cloud Practitioner (CLF-C02)
 
+![[AWS Certified]]([https://www.credly.com/organizations/amazon-web-services/badges](https://www.credly.com/badges/e9cc19f5-7687-4cbc-acbf-fff56ded87ff/public_url)) { width="200" height="100" }
+
 **Resumo:**
 
 **Compreenda o Exame:**
