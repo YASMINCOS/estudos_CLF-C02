@@ -428,6 +428,84 @@ um guia abrangente que define seis pilares fundamentais para a criação de arqu
 * **Benefícios:**
     * Aumente o engajamento e a conversão do usuário com recomendações personalizadas.
     * Melhore a satisfação do cliente oferecendo produtos e conteúdos relevantes.
+ 
+## Outros serviços:
+
+**1. AWS Outposts:**
+
+* Serviço que leva serviços AWS para sua infraestrutura local, permitindo a execução de workloads híbridas com consistência operacional da nuvem AWS.
+
+**2. Amazon FSx (File Storage):**
+
+* Famíla de serviços de armazenamento de arquivos em nuvem que oferecem opções para diferentes necessidades de desempenho, escalabilidade e custo.
+    * **Amazon FSx for Lustre:** Armazenamento de arquivos de alto desempenho para cargas de trabalho intensivas em dados.
+    * **Amazon FSx for Windows File Server:** Armazenamento de arquivos compatível com Windows para aplicações Windows.
+    * **Amazon FSx for NetApp ONTAP:** Armazenamento de arquivos empresarial altamente disponível e escalável.
+
+**3. Amazon EFS (Elastic File System):**
+
+* Sistema de arquivos elástico escalável na nuvem, ideal para aplicações distribuídas que precisam compartilhar dados entre instâncias EC2.
+
+**4. AWS Shield:**
+
+* Serviço de segurança na nuvem que protege aplicações contra ataques DDoS (Distributed Denial-of-Service).
+
+**5. Amazon GuardDuty:**
+
+* Serviço de detecção de ameaças na nuvem que monitora sua conta AWS em busca de atividades maliciosas e potenciais violações de segurança.
+
+**6. AWS Trusted Advisor:**
+
+* Ferramenta gratuita que analisa sua conta AWS e fornece recomendações para otimizar custos, melhorar a performance, aprimorar a segurança e garantir a conformidade.
+
+**7. Amazon Macie:**
+
+* Serviço de descoberta e proteção de dados na nuvem que ajuda a identificar e proteger dados confidenciais armazenados na AWS.
+
+**8. Amazon SageMaker Artifact:**
+
+* Registro gerenciado de modelos de machine learning que facilita o controle de versão, a implantação e a governança de modelos de ML.
+
+**9. Amazon Redshift:**
+
+* Data warehouse em nuvem para análise de grandes volumes de dados.
+
+**10. Amazon EventBridge:**
+
+* Serviço de barramento de eventos serverless que permite roteamento e entrega de eventos para diferentes serviços AWS.
+
+**11. Amazon CloudWatch:**
+
+* Serviço de monitoramento e observação para recursos e aplicações AWS, oferecendo coleta de métricas, logs e eventos.
+
+**12. Amazon Cognito:**
+
+* Serviço de identidade na nuvem que fornece autenticação, autorização e gerenciamento de usuários para seus aplicativos web e móveis.
+
+**13. Amazon Route 53:**
+
+* Serviço de DNS gerenciado na nuvem que direciona o tráfego para seus websites e aplicativos.
+
+**14. Amazon S3 (Simple Storage Service):**
+
+* Serviço de armazenamento de objetos escalável e durável para qualquer tipo de dado.
+
+**15. AWS Key Management Service (KMS):**
+
+* Serviço de gerenciamento de chaves que permite criptografar dados e controlar o acesso às chaves de criptografia.
+
+**16. Amazon Elastic Kubernetes Service (EKS):**
+
+* Serviço gerenciado de Kubernetes para implantar e gerenciar clusters Kubernetes na nuvem AWS.
+
+**17. AWS Global Accelerator:**
+
+* Serviço que melhora a performance de aplicativos globais ao rotear o tráfego do usuário para o endpoint AWS mais próximo.
+
+**18. AWS CloudFront:**
+
+* Rede global de entrega de conteúdo (CDN) que acelera a entrega de conteúdo estático, como imagens, vídeos e arquivos, para usuários finais com baixa latência.
+
 
 **Boa sorte em seus estudos!**
 
