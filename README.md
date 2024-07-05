@@ -32,7 +32,7 @@
 
 * **Definição:** Agrupamentos geográficos de datacenters da AWS, localizados em diferentes partes do mundo. Cada região oferece uma variedade de serviços AWS e possui infraestrutura independente, incluindo energia, rede e refrigeração.
 * **Objetivo:** Fornecer redundância e baixa latência para seus aplicativos e dados, aproximando-os dos seus usuários finais.
-* 
+  
 **Zonas de Disponibilidade (AZs):**
 
 * **Definição:** Subdivisões de uma região, compostas por datacenters distintos dentro da mesma área geográfica. As AZs são projetadas para serem altamente disponíveis e resistentes a falhas, garantindo que seus serviços permaneçam online mesmo em caso de interrupções em uma AZ.
@@ -196,10 +196,8 @@ Com a AWS, você pode construir e gerenciar aplicações sem se preocupar com a 
 
 * **ECS:**
    Serviço de orquestração de containers totalmente gerenciado.Ideal para iniciantes, workloads simples e migrações rápidas.
-* ** EKS:**
+* **EKS:**
    Serviço de orquestração de containers Kubernetes na AWS.Ideal para usuários experientes em Kubernetes, aplicações complexas e integração com o Kubernetes. 
-
-
 
 
 **Boa sorte em seus estudos!**
