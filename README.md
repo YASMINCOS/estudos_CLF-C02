@@ -506,6 +506,61 @@ um guia abrangente que define seis pilares fundamentais para a criação de arqu
 
 * Rede global de entrega de conteúdo (CDN) que acelera a entrega de conteúdo estático, como imagens, vídeos e arquivos, para usuários finais com baixa latência.
 
+## Planos de Suporte AWS
+
+**1. AWS Developer Support:**
+
+* **Ideal para:** Desenvolvedores e indivíduos que estão começando com a AWS ou que precisam de suporte básico para solucionar problemas comuns.
+* **Características:**
+    * Acesso ao fórum da comunidade AWS e à documentação online.
+    * Suporte por e-mail 24 horas por dia, 7 dias por semana.
+    * Suporte por telefone limitado durante o horário comercial.
+    * Custo: Gratuito.
+
+**2. AWS Business Support:**
+
+* **Ideal para:** Pequenas e médias empresas que precisam de suporte mais abrangente para solucionar problemas e otimizar o uso da AWS.
+* **Características:**
+    * Todos os benefícios do Developer Support, além de:
+    * Suporte por telefone 24 horas por dia, 7 dias por semana.
+    * Gerenciador de conta dedicado.
+    * Suporte técnico para resolução de problemas.
+    * Custo: A partir de US$ 100 por mês.
+
+**3. AWS Enterprise Support:**
+
+* **Ideal para:** Grandes empresas e organizações críticas que exigem o mais alto nível de suporte, incluindo acesso a especialistas técnicos e proativo à resolução de problemas.
+* **Características:**
+    * Todos os benefícios do Business Support, além de:
+    * Gerente de relacionamento técnico dedicado.
+    * Arquiteto de soluções dedicado.
+    * Suporte para engenharia de campo.
+    * Suporte para otimização de custos.
+    * Suporte para recuperação de desastres.
+
+**4. AWS Enterprise On-Ramp:**
+
+* **Ideal para:** Empresas que estão migrando grandes cargas de trabalho para a AWS e precisam de um plano de suporte personalizado e de orientação especializada para garantir uma migração bem-sucedida e rápida.
+* **Características:**
+    * Um plano de suporte personalizado com base em suas necessidades específicas.
+    * Uma equipe de especialistas em migração da AWS dedicada para ajudá-lo a planejar e executar sua migração.
+    * Suporte técnico para resolução de problemas e otimização de desempenho.
+    * Custo: Com base no escopo do projeto e nas suas necessidades específicas.
+
+**5. Suporte AWS por Parceiro:**
+
+* **Ideal para:** Empresas que desejam suporte adicional ou especializado de um parceiro certificado da AWS.
+* **Características:**
+    * Acesso a uma ampla rede de parceiros da AWS com expertise em diversos setores e soluções.
+    * Planos de suporte flexíveis e personalizados para atender às suas necessidades específicas.
+    * Suporte local e em diversos idiomas.
+    * Custo: Varie de acordo com o parceiro e o escopo do suporte.
+
+**Recursos Adicionais:**
+
+* **Página de Planos de Suporte da AWS:** [https://aws.amazon.com/premiumsupport/plans/](https://aws.amazon.com/premiumsupport/plans/)
+* **Comparação de Planos de Suporte da AWS:** [https://aws.amazon.com/premiumsupport/plans/](https://aws.amazon.com/premiumsupport/plans/)
+* **Guia de Seleção de Plano de Suporte da AWS:** [URL inválido removido]
 
 **Boa sorte em seus estudos!**
 
