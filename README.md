@@ -1,7 +1,5 @@
 ## Guia de Estudos para o Exame AWS Certified Cloud Practitioner (CLF-C02)
 
-![[AWS Certified Cloud Practitioner]](aws-certified-cloud-practitioner (1).png) { width="200" height="100" alt="AWS Certified Cloud Practitioner Badge" }
-
 **Resumo:**
 
 **Compreenda o Exame:**
