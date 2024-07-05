@@ -19,7 +19,6 @@
 **Oficiais da AWS:**
 
 * **Guia do Exame AWS Certified Cloud Practitioner (CLF-C02):** [https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
-* **AWS Cloud Quest: Cloud Practitioner:** [URL inválido removido]
 
 **Exteriores:**
 
