@@ -13,9 +13,6 @@
     * 25% Segurança e conformidade
     * 25% Faturamento e gerenciamento de custos
     * 15% Rede e entrega de conteúdo
-* **Público-alvo:**
-    * Profissionais com conhecimento básico em nuvem ou TI
-    * Funcionários que desejam compreender a AWS
 
 **Recursos de Estudo:**
 
@@ -141,8 +138,56 @@ A escolha do tipo de instância correto depende das suas necessidades específic
 * **Comparação de tecnologias de armazenamento AWS:** [https://medium.com/@lucasfpo/comparando-as-tecnologias-de-armazenamento-aws-s3-ebs-e-efs-d2ad8a2a56c4](https://medium.com/@lucasfpo/comparando-as-tecnologias-de-armazenamento-aws-s3-ebs-e-efs-d2ad8a2a56c4)
 
 
+## Conectividade Segura
+
+**1. VPC (Virtual Private Cloud):**
+
+Uma rede virtual privada na AWS, isolada de outras redes VPC e da internet pública. Crie redes seguras e customizáveis para seus recursos AWS, controlando o tráfego de entrada e saída.
+
+**2. VPN (Virtual Private Network):**
+
+Crie um túnel criptografado e seguro para conectar sua rede local à sua VPC na AWS. Estabeleça uma conexão privada e protegida entre sua infraestrutura on-premises e a nuvem, permitindo acesso seguro aos recursos da AWS.
+
+**3. Internet Gateway:**
+ Um roteador virtual que permite que as instâncias em sua VPC se conectem à internet pública. O Internet Gateway atua como ponto de entrada para o tráfego de internet, permitindo que suas instâncias acessem recursos externos.
+
+**4. Direct Connect:**
+ Uma conexão de rede dedicada e de alta velocidade entre sua rede local e a AWS. O Direct Connect oferece uma conexão privada e confiável para grandes volumes de dados, com menor latência e custos mais baixos do que a internet pública.
+ 
+**5. AWS Load Balancer::**
+ Distribua o tráfego de rede para suas instâncias de forma eficiente e automatizada.
+
+**6. AWS Route 53:**
+ Gerencie seus nomes de domínio e DNS com alta disponibilidade e escalabilidade.
+ 
+**7.AWS Network Firewall:**
+ Implemente firewalls de rede robustos para proteger suas VPCs.
+ 
+**8.AWS VPC Flow Logs:**
+  Monitore o tráfego de rede de entrada e saída em suas VPCs.
+  
+* **Considerações de segurança:**
+    * **Grupos de Segurança:** Controle o tráfego de entrada e saída para suas instâncias EC2.
+    * **Listas de Controle de Acesso (ACLs):** Proteja suas instâncias EC2 dentro da VPC(sub-redes).
+    * **IAM (Identity and Access Management):** Gerencie o acesso de usuários e serviços aos seus recursos da AWS.
 
 
+
+
+**Recursos Adicionais:**
+
+* **Documentação da AWS:** [https://docs.aws.amazon.com/](https://docs.aws.amazon.com/)
+* **Blog da AWS:** [https://aws.amazon.com/blogs/](https://aws.amazon.com/blogs/)
+* **Vídeos da AWS:** [https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
+* **Cursos de Treinamento da AWS:** [https://aws.amazon.com/training/](https://aws.amazon.com/training/)
+
+**Lembre-se:**
+
+* A AWS oferece uma ampla variedade de serviços de rede para atender às suas necessidades.
+* É importante escolher o serviço de rede correto para cada caso de uso.
+* Siga as melhores práticas para garantir a segurança e a confiabilidade da sua rede na AWS.
+
+**Boa sorte em seus estudos e na jornada com a AWS!**
 
 
 
